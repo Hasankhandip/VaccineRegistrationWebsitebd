@@ -421,6 +421,9 @@
   .container-xl {
     max-width: 330px;
   }
+.bc-bottom h6 {
+font-size: 15px;
+}
   .banner-item {
     max-width: 300px;
   }
