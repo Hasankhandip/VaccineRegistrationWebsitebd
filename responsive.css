@@ -183,6 +183,7 @@
   }
   .help-center {
     display: inline;
+    box-shadow:none;
   }
   .help-section {
     padding: 40px 0 50px 0;
