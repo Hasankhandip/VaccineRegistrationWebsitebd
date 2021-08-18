@@ -433,12 +433,13 @@ font-size: 15px;
   .bcl-item p {
     font-size: 19px;
   }
-  .vp-text h3 {
-    font-size: 14px;
-    font-weight: 800;
-    padding-left: 18px;
-    margin-left: 10px;
-  }
+.vp-text h3 {
+	font-size: 17px;
+	font-weight: 800;
+	padding-left: 18px;
+	margin-left: 0;
+	line-height: 27px;
+}
   .footer-item img {
     width: 100%;
   }
