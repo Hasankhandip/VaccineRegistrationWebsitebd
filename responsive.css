@@ -446,4 +446,8 @@ font-size: 15px;
   .footer-copyrigth p {
     font-size: 12px;
   }
+.ask-item-colapse p a::before {
+	left: 0;
+	top: 0;
+}
 }
