@@ -333,8 +333,8 @@
     max-width: 380px;
   }
   .hdr-all a img {
-    max-width: 160px;
-  }
+	max-width: 100%;
+}
   .hdr-navbar ul {
     top: 67px;
     width: 400px;
